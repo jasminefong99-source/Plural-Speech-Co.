@@ -11,6 +11,7 @@ Plural Speech Co. provides AI-assisted documentation templates and prompt system
 
 ### Start Here
 👉 **Get the free guide:**  
-**10 Insurance-Proof Phrases for SLP Documentation (Plus 3 to Avoid)**
+[10 Insurance-Proof Phrases for SLP Documentation (Plus 3 to Avoid)](./free-guide)
+
 
 *Created by a licensed Speech-Language Pathologist. No automation replaces clinical judgment.*

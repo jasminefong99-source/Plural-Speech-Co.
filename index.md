@@ -1,4 +1,3 @@
-# Plural Speech Co.
 
 ## Insurance-Ready Speech Therapy Documentation — Faster, Cleaner, Defensible
 
